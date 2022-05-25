@@ -1,0 +1,5 @@
+{
+    "nodeName": "UGse",
+    "blockGraffiti": "UGse",
+    "enableTelemetry": true
+}
